@@ -1,0 +1,251 @@
+country_name,capital,region,continents,area,population,iso2,iso3,_country_norm,indicator,value
+Lithuania,Vilnius,Europe,Europe,65300.0,2794700,LT,LTU,lithuania,SP.POP.TOTL,2888055.0
+Chile,Santiago,Americas,South America,756102.0,19116209,CL,CHL,chile,SP.POP.TOTL,19764771.0
+Benin,Porto-Novo,Africa,Africa,112622.0,12123198,BJ,BEN,benin,SP.POP.TOTL,14462724.0
+Falkland Islands,Stanley,Americas,South America,12173.0,2563,FK,FLK,falkland islands,,
+Georgia,Tbilisi,Asia,Asia,69700.0,3714000,GE,GEO,georgia,SP.POP.TOTL,3673850.0
+Cyprus,Nicosia,Europe,Europe,9251.0,1207361,CY,CYP,cyprus,SP.POP.TOTL,1358282.0
+Ghana,Accra,Africa,Africa,238533.0,31072945,GH,GHA,ghana,SP.POP.TOTL,34427414.0
+Belgium,Brussels,Europe,Europe,30528.0,11555997,BE,BEL,belgium,SP.POP.TOTL,11876844.0
+Cuba,Havana,Americas,North America,109884.0,11326616,CU,CUB,cuba,SP.POP.TOTL,10979783.0
+Andorra,Andorra la Vella,Europe,Europe,468.0,77265,AD,AND,andorra,SP.POP.TOTL,81938.0
+Argentina,Buenos Aires,Americas,South America,2780400.0,45376763,AR,ARG,argentina,SP.POP.TOTL,45696159.0
+El Salvador,San Salvador,Americas,North America,21041.0,6486201,SV,SLV,el salvador,SP.POP.TOTL,6338193.0
+Uzbekistan,Tashkent,Asia,Asia,447400.0,34232050,UZ,UZB,uzbekistan,SP.POP.TOTL,36361859.0
+Belize,Belmopan,Americas,North America,22966.0,397621,BZ,BLZ,belize,SP.POP.TOTL,417072.0
+Latvia,Riga,Europe,Europe,64559.0,1901548,LV,LVA,latvia,SP.POP.TOTL,1862441.0
+Ivory Coast,Yamoussoukro,Africa,Africa,322463.0,26378275,CI,CIV,cote divoire,SP.POP.TOTL,31934230.0
+France,Paris,Europe,Europe,551695.0,67391582,FR,FRA,france,SP.POP.TOTL,68516699.0
+Northern Mariana Islands,Saipan,Oceania,Oceania,464.0,57557,MP,MNP,northern mariana islands,SP.POP.TOTL,44278.0
+Republic of the Congo,Brazzaville,Africa,Africa,342000.0,5657000,CG,COG,republic of the congo,SP.POP.TOTL,6332961.0
+Bangladesh,Dhaka,Asia,Asia,147570.0,164689383,BD,BGD,bangladesh,SP.POP.TOTL,173562364.0
+Palau,Ngerulmud,Oceania,Oceania,459.0,18092,PW,PLW,palau,SP.POP.TOTL,17695.0
+Afghanistan,Kabul,Asia,Asia,652230.0,40218234,AF,AFG,afghanistan,SP.POP.TOTL,42647492.0
+Ethiopia,Addis Ababa,Africa,Africa,1104300.0,114963583,ET,ETH,ethiopia,SP.POP.TOTL,132059767.0
+New Caledonia,Nouméa,Oceania,Oceania,18575.0,271960,NC,NCL,new caledonia,SP.POP.TOTL,292639.0
+Turkmenistan,Ashgabat,Asia,Asia,488100.0,6031187,TM,TKM,turkmenistan,SP.POP.TOTL,7494498.0
+Jordan,Amman,Asia,Asia,89342.0,10203140,JO,JOR,jordan,SP.POP.TOTL,11552876.0
+Montserrat,Plymouth,Americas,North America,102.0,4922,MS,MSR,montserrat,,
+Bulgaria,Sofia,Europe,Europe,110879.0,6927288,BG,BGR,bulgaria,SP.POP.TOTL,6444366.0
+Saint Lucia,Castries,Americas,North America,616.0,183629,LC,LCA,saint lucia,SP.POP.TOTL,179744.0
+Senegal,Dakar,Africa,Africa,196722.0,16743930,SN,SEN,senegal,SP.POP.TOTL,18501984.0
+Uruguay,Montevideo,Americas,South America,181034.0,3473727,UY,URY,uruguay,SP.POP.TOTL,3386588.0
+Guinea-Bissau,Bissau,Africa,Africa,36125.0,1967998,GW,GNB,guineabissau,SP.POP.TOTL,2201352.0
+Philippines,Manila,Asia,Asia,342353.0,109581085,PH,PHL,philippines,SP.POP.TOTL,115843670.0
+Tanzania,Dodoma,Africa,Africa,945087.0,59734213,TZ,TZA,tanzania,SP.POP.TOTL,68560157.0
+Isle of Man,Douglas,Europe,Europe,572.0,85032,IM,IMN,isle of man,SP.POP.TOTL,84160.0
+Sudan,Khartoum,Africa,Africa,1886068.0,43849269,SD,SDN,sudan,SP.POP.TOTL,50448963.0
+Sierra Leone,Freetown,Africa,Africa,71740.0,7976985,SL,SLE,sierra leone,SP.POP.TOTL,8642022.0
+Chad,N'Djamena,Africa,Africa,1284000.0,16425859,TD,TCD,chad,SP.POP.TOTL,20299123.0
+Vanuatu,Port Vila,Oceania,Oceania,12189.0,307150,VU,VUT,vanuatu,SP.POP.TOTL,327777.0
+Rwanda,Kigali,Africa,Africa,26338.0,12952209,RW,RWA,rwanda,SP.POP.TOTL,14256567.0
+Togo,Lomé,Africa,Africa,56785.0,8278737,TG,TGO,togo,SP.POP.TOTL,9515236.0
+United Arab Emirates,Abu Dhabi,Asia,Asia,83600.0,9890400,AE,ARE,united arab emirates,SP.POP.TOTL,10876981.0
+Antarctica,,Antarctic,Antarctica,14000000.0,1000,AQ,ATA,antarctica,,
+Comoros,Moroni,Africa,Africa,1862.0,869595,KM,COM,comoros,SP.POP.TOTL,866628.0
+Kosovo,Pristina,Europe,Europe,10908.0,1775378,XK,UNK,kosovo,,
+Moldova,Chișinău,Europe,Europe,33846.0,2617820,MD,MDA,moldova,SP.POP.TOTL,2389275.0
+Kyrgyzstan,Bishkek,Asia,Asia,199951.0,6591600,KG,KGZ,kyrgyzstan,SP.POP.TOTL,7224614.0
+Cape Verde,Praia,Africa,Africa,4033.0,555988,CV,CPV,cabo verde,SP.POP.TOTL,524877.0
+United States,"Washington, D.C.",Americas,North America,9372610.0,329484123,US,USA,united states of america,SP.POP.TOTL,340110988.0
+Venezuela,Caracas,Americas,South America,916445.0,28435943,VE,VEN,venezuela,SP.POP.TOTL,28405543.0
+Pitcairn Islands,Adamstown,Oceania,Oceania,47.0,56,PN,PCN,pitcairn islands,,
+Mayotte,Mamoudzou,Africa,Africa,374.0,226915,YT,MYT,mayotte,,
+Timor-Leste,Dili,Asia,Oceania,14874.0,1318442,TL,TLS,timorleste,SP.POP.TOTL,1400638.0
+Solomon Islands,Honiara,Oceania,Oceania,28896.0,686878,SB,SLB,solomon islands,SP.POP.TOTL,819198.0
+Saint Pierre and Miquelon,Saint-Pierre,Americas,North America,242.0,6069,PM,SPM,saint pierre and miquelon,,
+Ecuador,Quito,Americas,South America,276841.0,17643060,EC,ECU,ecuador,SP.POP.TOTL,18135478.0
+Malta,Valletta,Europe,Europe,316.0,525285,MT,MLT,malta,SP.POP.TOTL,574346.0
+Central African Republic,Bangui,Africa,Africa,622984.0,4829764,CF,CAF,central african republic,SP.POP.TOTL,5330690.0
+Tonga,Nuku'alofa,Oceania,Oceania,747.0,105697,TO,TON,tonga,SP.POP.TOTL,104175.0
+Greece,Athens,Europe,Europe,131990.0,10715549,GR,GRC,greece,SP.POP.TOTL,10388805.0
+Austria,Vienna,Europe,Europe,83871.0,8917205,AT,AUT,austria,SP.POP.TOTL,9178482.0
+Saint Kitts and Nevis,Basseterre,Americas,North America,261.0,53192,KN,KNA,saint kitts and nevis,SP.POP.TOTL,46843.0
+Nigeria,Abuja,Africa,Africa,923768.0,206139587,NG,NGA,nigeria,SP.POP.TOTL,232679478.0
+Niue,Alofi,Oceania,Oceania,260.0,1470,NU,NIU,niue,,
+Czechia,Prague,Europe,Europe,78865.0,10698896,CZ,CZE,czechia,SP.POP.TOTL,10882164.0
+San Marino,City of San Marino,Europe,Europe,61.0,33938,SM,SMR,san marino,SP.POP.TOTL,33977.0
+Caribbean Netherlands,Kralendijk,Americas,North America,328.0,25987,BQ,BES,caribbean netherlands,,
+Qatar,Doha,Asia,Asia,11586.0,2881060,QA,QAT,qatar,SP.POP.TOTL,2857822.0
+Wallis and Futuna,Mata-Utu,Oceania,Oceania,142.0,11750,WF,WLF,wallis and futuna,,
+Guatemala,Guatemala City,Americas,North America,108889.0,16858333,GT,GTM,guatemala,SP.POP.TOTL,18406359.0
+Tunisia,Tunis,Africa,Africa,163610.0,11818618,TN,TUN,tunisia,SP.POP.TOTL,12277109.0
+Bhutan,Thimphu,Asia,Asia,38394.0,771612,BT,BTN,bhutan,SP.POP.TOTL,791524.0
+Macau,,Asia,Asia,30.0,649342,MO,MAC,macau,SP.POP.TOTL,687000.0
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,Africa,Africa,394.0,53192,SH,SHN,saint helena ascension and tristan da cunha,,
+Samoa,Apia,Oceania,Oceania,2842.0,198410,WS,WSM,samoa,SP.POP.TOTL,218019.0
+Tajikistan,Dushanbe,Asia,Asia,143100.0,9537642,TJ,TJK,tajikistan,SP.POP.TOTL,10590927.0
+Western Sahara,El Aaiún,Africa,Africa,266000.0,510713,EH,ESH,western sahara,,
+Israel,Jerusalem,Asia,Asia,20770.0,9216900,IL,ISR,israel,SP.POP.TOTL,9974400.0
+Somalia,Mogadishu,Africa,Africa,637657.0,15893219,SO,SOM,somalia,SP.POP.TOTL,19009151.0
+Saint Barthélemy,Gustavia,Americas,North America,21.0,4255,BL,BLM,saint barthélemy,,
+Guernsey,St. Peter Port,Europe,Europe,78.0,62999,GG,GGY,guernsey,,
+Turks and Caicos Islands,Cockburn Town,Americas,North America,948.0,38718,TC,TCA,turks and caicos islands,SP.POP.TOTL,46535.0
+Finland,Helsinki,Europe,Europe,338424.0,5530719,FI,FIN,finland,SP.POP.TOTL,5637214.0
+Lesotho,Maseru,Africa,Africa,30355.0,2142252,LS,LSO,lesotho,SP.POP.TOTL,2337423.0
+Ireland,Dublin,Europe,Europe,70273.0,4994724,IE,IRL,ireland,SP.POP.TOTL,5380257.0
+Jamaica,Kingston,Americas,North America,10991.0,2961161,JM,JAM,jamaica,SP.POP.TOTL,2839175.0
+Eswatini,Mbabane,Africa,Africa,17364.0,1160164,SZ,SWZ,swaziland,SP.POP.TOTL,1242822.0
+Gabon,Libreville,Africa,Africa,267668.0,2225728,GA,GAB,gabon,SP.POP.TOTL,2538952.0
+Cambodia,Phnom Penh,Asia,Asia,181035.0,16718971,KH,KHM,cambodia,SP.POP.TOTL,17638801.0
+Saudi Arabia,Riyadh,Asia,Asia,2149690.0,34813867,SA,SAU,saudi arabia,SP.POP.TOTL,35300280.0
+Micronesia,Palikir,Oceania,Oceania,702.0,115021,FM,FSM,micronesia,SP.POP.TOTL,113160.0
+North Korea,Pyongyang,Asia,Asia,120538.0,25778815,KP,PRK,korea dem peoples rep,SP.POP.TOTL,26498823.0
+Equatorial Guinea,Malabo,Africa,Africa,28051.0,1402985,GQ,GNQ,equatorial guinea,SP.POP.TOTL,1892516.0
+Greenland,Nuuk,Americas,North America,2166086.0,56367,GL,GRL,greenland,SP.POP.TOTL,56836.0
+Mexico,Mexico City,Americas,North America,1964375.0,128932753,MX,MEX,mexico,SP.POP.TOTL,130861007.0
+Brazil,Brasília,Americas,South America,8515767.0,212559409,BR,BRA,brazil,SP.POP.TOTL,211998573.0
+Nauru,Yaren,Oceania,Oceania,21.0,10834,NR,NRU,nauru,SP.POP.TOTL,11947.0
+Iran,Tehran,Asia,Asia,1648195.0,83992953,IR,IRN,iran,SP.POP.TOTL,91567738.0
+Angola,Luanda,Africa,Africa,1246700.0,32866268,AO,AGO,angola,SP.POP.TOTL,37885849.0
+Aruba,Oranjestad,Americas,North America,180.0,106766,AW,ABW,aruba,SP.POP.TOTL,107624.0
+Cocos (Keeling) Islands,West Island,Oceania,Asia,14.0,544,CC,CCK,cocos keeling islands,,
+Myanmar,Naypyidaw,Asia,Asia,676578.0,54409794,MM,MMR,myanmar,SP.POP.TOTL,54500091.0
+Egypt,Cairo,Africa,Africa,1002450.0,102334403,EG,EGY,egypt,SP.POP.TOTL,116538258.0
+Italy,Rome,Europe,Europe,301336.0,59554023,IT,ITA,italy,SP.POP.TOTL,58986023.0
+Australia,Canberra,Oceania,Oceania,7692024.0,25687041,AU,AUS,australia,SP.POP.TOTL,27204809.0
+Botswana,Gaborone,Africa,Africa,582000.0,2351625,BW,BWA,botswana,SP.POP.TOTL,2521139.0
+Vatican City,Vatican City,Europe,Europe,0.44,451,VA,VAT,vatican city,,
+Réunion,Saint-Denis,Africa,Africa,2511.0,840974,RE,REU,réunion,,
+Liberia,Monrovia,Africa,Africa,111369.0,5057677,LR,LBR,liberia,SP.POP.TOTL,5612817.0
+Portugal,Lisbon,Europe,Europe,92090.0,10305564,PT,PRT,portugal,SP.POP.TOTL,10701636.0
+Anguilla,The Valley,Americas,North America,91.0,13452,AI,AIA,anguilla,,
+Syria,Damascus,Asia,Asia,185180.0,17500657,SY,SYR,syria,SP.POP.TOTL,24672760.0
+Denmark,Copenhagen,Europe,Europe,43094.0,5831404,DK,DNK,denmark,SP.POP.TOTL,5976992.0
+Albania,Tirana,Europe,Europe,28748.0,2837743,AL,ALB,albania,SP.POP.TOTL,2714617.0
+Slovakia,Bratislava,Europe,Europe,49037.0,5458827,SK,SVK,slovakia,SP.POP.TOTL,5422069.0
+Curaçao,Willemstad,Americas,North America,444.0,155014,CW,CUW,curaçao,SP.POP.TOTL,155900.0
+Zambia,Lusaka,Africa,Africa,752612.0,18383956,ZM,ZMB,zambia,SP.POP.TOTL,21314956.0
+São Tomé and Príncipe,São Tomé,Africa,Africa,964.0,219161,ST,STP,são tomé and príncipe,SP.POP.TOTL,235536.0
+Bahamas,Nassau,Americas,North America,13943.0,393248,BS,BHS,bahamas the,SP.POP.TOTL,401283.0
+Netherlands,Amsterdam,Europe,Europe,41850.0,16655799,NL,NLD,netherlands,SP.POP.TOTL,17994237.0
+American Samoa,Pago Pago,Oceania,Oceania,199.0,55197,AS,ASM,american samoa,SP.POP.TOTL,46765.0
+Bolivia,Sucre,Americas,South America,1098581.0,11673029,BO,BOL,bolivia,SP.POP.TOTL,12413315.0
+British Indian Ocean Territory,Diego Garcia,Africa,Asia,60.0,3000,IO,IOT,british indian ocean territory,,
+Germany,Berlin,Europe,Europe,357114.0,83240525,DE,DEU,germany,SP.POP.TOTL,83510950.0
+Eritrea,Asmara,Africa,Africa,117600.0,5352000,ER,ERI,eritrea,SP.POP.TOTL,3535603.0
+Estonia,Tallinn,Europe,Europe,45227.0,1331057,EE,EST,estonia,SP.POP.TOTL,1371986.0
+Mali,Bamako,Africa,Africa,1240192.0,20250834,ML,MLI,mali,SP.POP.TOTL,24478595.0
+Kuwait,Kuwait City,Asia,Asia,17818.0,4270563,KW,KWT,kuwait,SP.POP.TOTL,4973861.0
+DR Congo,Kinshasa,Africa,Africa,2344858.0,108407721,CD,COD,dr congo,SP.POP.TOTL,109276265.0
+Hungary,Budapest,Europe,Europe,93028.0,9749763,HU,HUN,hungary,SP.POP.TOTL,9562314.0
+Libya,Tripoli,Africa,Africa,1759540.0,6871287,LY,LBY,libya,SP.POP.TOTL,7381023.0
+Montenegro,Podgorica,Europe,Europe,13812.0,621718,ME,MNE,montenegro,SP.POP.TOTL,623831.0
+Paraguay,Asunción,Americas,South America,406752.0,7132530,PY,PRY,paraguay,SP.POP.TOTL,6929153.0
+Peru,Lima,Americas,South America,1285216.0,32971846,PE,PER,peru,SP.POP.TOTL,34217848.0
+Burundi,Gitega,Africa,Africa,27834.0,11890781,BI,BDI,burundi,SP.POP.TOTL,14047786.0
+Laos,Vientiane,Asia,Asia,236800.0,7275556,LA,LAO,lao pdr,SP.POP.TOTL,7769819.0
+South Sudan,Juba,Africa,Africa,619745.0,11193729,SS,SSD,south sudan,SP.POP.TOTL,11943408.0
+Cayman Islands,George Town,Americas,North America,264.0,65720,KY,CYM,cayman islands,SP.POP.TOTL,74457.0
+North Macedonia,Skopje,Europe,Europe,25713.0,2077132,MK,MKD,north macedonia,SP.POP.TOTL,1792179.0
+Morocco,Rabat,Africa,Africa,446550.0,36910558,MA,MAR,morocco,SP.POP.TOTL,38081173.0
+Lebanon,Beirut,Asia,Asia,10452.0,6825442,LB,LBN,lebanon,SP.POP.TOTL,5805962.0
+Åland Islands,Mariehamn,Europe,Europe,1580.0,29458,AX,ALA,åland islands,,
+Guinea,Conakry,Africa,Africa,245857.0,13132792,GN,GIN,guinea,SP.POP.TOTL,14754785.0
+Nicaragua,Managua,Americas,North America,130373.0,6624554,NI,NIC,nicaragua,SP.POP.TOTL,6916140.0
+Guadeloupe,Basse-Terre,Americas,North America,1628.0,400132,GP,GLP,guadeloupe,,
+Sri Lanka,Sri Jayawardenepura Kotte,Asia,Asia,65610.0,21919000,LK,LKA,sri lanka,SP.POP.TOTL,21916000.0
+Heard Island and McDonald Islands,,Antarctic,Antarctica,412.0,0,HM,HMD,heard island and mcdonald islands,,
+China,Beijing,Asia,Asia,9706961.0,1402112000,CN,CHN,china,SP.POP.TOTL,1408975000.0
+Bahrain,Manama,Asia,Asia,765.0,1701583,BH,BHR,bahrain,SP.POP.TOTL,1588670.0
+Marshall Islands,Majuro,Oceania,Oceania,181.0,59194,MH,MHL,marshall islands,SP.POP.TOTL,37548.0
+Ukraine,Kyiv,Europe,Europe,603500.0,44134693,UA,UKR,ukraine,SP.POP.TOTL,37860221.0
+Saint Vincent and the Grenadines,Kingstown,Americas,North America,389.0,110947,VC,VCT,saint vincent and the grenadines,SP.POP.TOTL,100616.0
+Seychelles,Victoria,Africa,Africa,452.0,98462,SC,SYC,seychelles,SP.POP.TOTL,121354.0
+Dominican Republic,Santo Domingo,Americas,North America,48671.0,10847904,DO,DOM,dominican republic,SP.POP.TOTL,11427557.0
+Indonesia,Jakarta,Asia,Asia,1904569.0,273523621,ID,IDN,indonesia,SP.POP.TOTL,283487931.0
+Malawi,Lilongwe,Africa,Africa,118484.0,19129955,MW,MWI,malawi,SP.POP.TOTL,21655286.0
+Cameroon,Yaoundé,Africa,Africa,475442.0,26545864,CM,CMR,cameroon,SP.POP.TOTL,29123744.0
+Madagascar,Antananarivo,Africa,Africa,587041.0,27691019,MG,MDG,madagascar,SP.POP.TOTL,31964956.0
+Kiribati,South Tarawa,Oceania,Oceania,811.0,119446,KI,KIR,kiribati,SP.POP.TOTL,134518.0
+Fiji,Suva,Oceania,Oceania,18272.0,896444,FJ,FJI,fiji,SP.POP.TOTL,928784.0
+French Polynesia,Papeetē,Oceania,Oceania,4167.0,280904,PF,PYF,french polynesia,SP.POP.TOTL,281807.0
+Pakistan,Islamabad,Asia,Asia,881912.0,220892331,PK,PAK,pakistan,SP.POP.TOTL,251269164.0
+Faroe Islands,Tórshavn,Europe,Europe,1393.0,48865,FO,FRO,faroe islands,SP.POP.TOTL,54719.0
+Suriname,Paramaribo,Americas,South America,163820.0,586634,SR,SUR,suriname,SP.POP.TOTL,634431.0
+Djibouti,Djibouti,Africa,Africa,23200.0,988002,DJ,DJI,djibouti,SP.POP.TOTL,1168722.0
+Gambia,Banjul,Africa,Africa,10689.0,2416664,GM,GMB,gambia the,SP.POP.TOTL,2759988.0
+Mongolia,Ulan Bator,Asia,Asia,1564110.0,3278292,MN,MNG,mongolia,SP.POP.TOTL,3524788.0
+Zimbabwe,Harare,Africa,Africa,390757.0,14862927,ZW,ZWE,zimbabwe,SP.POP.TOTL,16634373.0
+Iceland,Reykjavik,Europe,Europe,103000.0,366425,IS,ISL,iceland,SP.POP.TOTL,404610.0
+Haiti,Port-au-Prince,Americas,North America,27750.0,11402533,HT,HTI,haiti,SP.POP.TOTL,11772557.0
+Romania,Bucharest,Europe,Europe,238391.0,19286123,RO,ROU,romania,SP.POP.TOTL,19069340.0
+Costa Rica,San José,Americas,North America,51100.0,5094114,CR,CRI,costa rica,SP.POP.TOTL,5129910.0
+Croatia,Zagreb,Europe,Europe,56594.0,4047200,HR,HRV,croatia,SP.POP.TOTL,3866300.0
+Vietnam,Hanoi,Asia,Asia,331212.0,97338583,VN,VNM,viet nam,SP.POP.TOTL,100987686.0
+South Korea,Seoul,Asia,Asia,100210.0,51780579,KR,KOR,korea rep,SP.POP.TOTL,51751065.0
+Norfolk Island,Kingston,Oceania,Oceania,36.0,2302,NF,NFK,norfolk island,,
+Canada,Ottawa,Americas,North America,9984670.0,38005238,CA,CAN,canada,SP.POP.TOTL,41288599.0
+Liechtenstein,Vaduz,Europe,Europe,160.0,38137,LI,LIE,liechtenstein,SP.POP.TOTL,40197.0
+Monaco,Monaco,Europe,Europe,2.02,39244,MC,MCO,monaco,SP.POP.TOTL,38631.0
+Puerto Rico,San Juan,Americas,North America,8870.0,3194034,PR,PRI,puerto rico,SP.POP.TOTL,3203295.0
+Tuvalu,Funafuti,Oceania,Oceania,26.0,11792,TV,TUV,tuvalu,SP.POP.TOTL,9646.0
+French Guiana,Cayenne,Americas,South America,83534.0,254541,GF,GUF,french guiana,,
+Saint Martin,Marigot,Americas,North America,53.0,38659,MF,MAF,saint martin,SP.POP.TOTL,26129.0
+Mauritius,Port Louis,Africa,Africa,2040.0,1265740,MU,MUS,mauritius,SP.POP.TOTL,1259509.0
+South Georgia,King Edward Point,Antarctic,Antarctica,3903.0,30,GS,SGS,south georgia,,
+Papua New Guinea,Port Moresby,Oceania,Oceania,462840.0,8947027,PG,PNG,papua new guinea,SP.POP.TOTL,10576502.0
+Kazakhstan,Astana,Asia,Asia,2724900.0,18754440,KZ,KAZ,kazakhstan,SP.POP.TOTL,20592571.0
+Malaysia,Kuala Lumpur,Asia,Asia,330803.0,32365998,MY,MYS,malaysia,SP.POP.TOTL,35557673.0
+Uganda,Kampala,Africa,Africa,241550.0,45741000,UG,UGA,uganda,SP.POP.TOTL,50015092.0
+Burkina Faso,Ouagadougou,Africa,Africa,272967.0,20903278,BF,BFA,burkina faso,SP.POP.TOTL,23548781.0
+Grenada,St. George's,Americas,North America,344.0,112519,GD,GRD,grenada,SP.POP.TOTL,117207.0
+Singapore,Singapore,Asia,Asia,710.0,5685807,SG,SGP,singapore,SP.POP.TOTL,6036860.0
+Cook Islands,Avarua,Oceania,Oceania,236.0,18100,CK,COK,cook islands,,
+Maldives,Malé,Asia,Asia,300.0,540542,MV,MDV,maldives,SP.POP.TOTL,527799.0
+Yemen,Sana'a,Asia,Asia,527968.0,29825968,YE,YEM,yemen,SP.POP.TOTL,40583164.0
+United States Virgin Islands,Charlotte Amalie,Americas,North America,347.0,106290,VI,VIR,united states virgin islands,SP.POP.TOTL,104377.0
+Jersey,Saint Helier,Europe,Europe,116.0,100800,JE,JEY,jersey,,
+Martinique,Fort-de-France,Americas,North America,1128.0,378243,MQ,MTQ,martinique,,
+British Virgin Islands,Road Town,Americas,North America,151.0,30237,VG,VGB,british virgin islands,SP.POP.TOTL,39471.0
+Antigua and Barbuda,Saint John's,Americas,North America,442.0,97928,AG,ATG,antigua and barbuda,SP.POP.TOTL,93772.0
+Panama,Panama City,Americas,North America,75417.0,4314768,PA,PAN,panama,SP.POP.TOTL,4515577.0
+Thailand,Bangkok,Asia,Asia,513120.0,69799978,TH,THA,thailand,SP.POP.TOTL,71668011.0
+Sweden,Stockholm,Europe,Europe,450295.0,10353442,SE,SWE,sweden,SP.POP.TOTL,10569709.0
+Algeria,Algiers,Africa,Africa,2381741.0,44700000,DZ,DZA,algeria,SP.POP.TOTL,46814308.0
+Mozambique,Maputo,Africa,Africa,801590.0,31255435,MZ,MOZ,mozambique,SP.POP.TOTL,34631766.0
+Namibia,Windhoek,Africa,Africa,825615.0,2540916,,NAM,namibia,SP.POP.TOTL,3030131.0
+Barbados,Bridgetown,Americas,North America,430.0,287371,BB,BRB,barbados,SP.POP.TOTL,282467.0
+Svalbard and Jan Mayen,Longyearbyen,Europe,Europe,61399.0,2562,SJ,SJM,svalbard and jan mayen,,
+Hong Kong,City of Victoria,Asia,Asia,1104.0,7500700,HK,HKG,hong kong,SP.POP.TOTL,7524100.0
+Honduras,Tegucigalpa,Americas,North America,112492.0,9904608,HN,HND,honduras,SP.POP.TOTL,10825703.0
+Japan,Tokyo,Asia,Asia,377930.0,125836021,JP,JPN,japan,SP.POP.TOTL,123975371.0
+United States Minor Outlying Islands,Washington DC,Americas,Oceania,34.2,300,UM,UMI,united states minor outlying islands,,
+Guam,Hagåtña,Oceania,Oceania,549.0,168783,GU,GUM,guam,SP.POP.TOTL,167777.0
+Sint Maarten,Philipsburg,Americas,North America,34.0,40812,SX,SXM,sint maarten,SP.POP.TOTL,43350.0
+Belarus,Minsk,Europe,Europe,207600.0,9398861,BY,BLR,belarus,SP.POP.TOTL,9133712.0
+Bermuda,Hamilton,Americas,North America,54.0,63903,BM,BMU,bermuda,SP.POP.TOTL,64636.0
+Bosnia and Herzegovina,Sarajevo,Europe,Europe,51209.0,3280815,BA,BIH,bosnia and herzegovina,SP.POP.TOTL,3164253.0
+Gibraltar,Gibraltar,Europe,Europe,6.0,33691,GI,GIB,gibraltar,SP.POP.TOTL,39329.0
+Kenya,Nairobi,Africa,Africa,580367.0,53771300,KE,KEN,kenya,SP.POP.TOTL,56432944.0
+New Zealand,Wellington,Oceania,Oceania,270467.0,5084300,NZ,NZL,new zealand,SP.POP.TOTL,5338500.0
+French Southern and Antarctic Lands,Port-aux-Français,Antarctic,Antarctica,7747.0,400,TF,ATF,french southern and antarctic lands,,
+Tokelau,Fakaofo,Oceania,Oceania,12.0,1411,TK,TKL,tokelau,,
+Guyana,Georgetown,Americas,South America,214969.0,786559,GY,GUY,guyana,SP.POP.TOTL,831087.0
+Nepal,Kathmandu,Asia,Asia,147181.0,29136808,NP,NPL,nepal,SP.POP.TOTL,29651054.0
+India,New Delhi,Asia,Asia,3287590.0,1380004385,IN,IND,india,SP.POP.TOTL,1450935791.0
+Trinidad and Tobago,Port of Spain,Americas,North America,5130.0,1399491,TT,TTO,trinidad and tobago,SP.POP.TOTL,1368333.0
+Luxembourg,Luxembourg,Europe,Europe,2586.0,632275,LU,LUX,luxembourg,SP.POP.TOTL,677717.0
+Switzerland,Bern,Europe,Europe,41284.0,8654622,CH,CHE,switzerland,SP.POP.TOTL,9034102.0
+Taiwan,Taipei,Asia,Asia,36193.0,23503349,TW,TWN,taiwan,,
+Iraq,Baghdad,Asia,Asia,438317.0,40222503,IQ,IRQ,iraq,SP.POP.TOTL,46042015.0
+Norway,Oslo,Europe,Europe,323802.0,5379475,NO,NOR,norway,SP.POP.TOTL,5572272.0
+Oman,Muscat,Asia,Asia,309500.0,5106622,OM,OMN,oman,SP.POP.TOTL,5281538.0
+United Kingdom,London,Europe,Europe,242900.0,67215293,GB,GBR,united kingdom,SP.POP.TOTL,69226000.0
+Dominica,Roseau,Americas,North America,751.0,71991,DM,DMA,dominica,SP.POP.TOTL,66205.0
+Spain,Madrid,Europe,Europe,505992.0,47351567,ES,ESP,spain,SP.POP.TOTL,48807137.0
+Serbia,Belgrade,Europe,Europe,88361.0,6908224,RS,SRB,serbia,SP.POP.TOTL,6587202.0
+Slovenia,Ljubljana,Europe,Europe,20273.0,2100126,SI,SVN,slovenia,SP.POP.TOTL,2126324.0
+Armenia,Yerevan,Asia,Asia,29743.0,2963234,AM,ARM,armenia,SP.POP.TOTL,3033500.0
+Niger,Niamey,Africa,Africa,1267000.0,24206636,NE,NER,niger,SP.POP.TOTL,27032412.0
+Bouvet Island,,Antarctic,Antarctica,49.0,0,BV,BVT,bouvet island,,
+Christmas Island,Flying Fish Cove,Oceania,Asia,135.0,2072,CX,CXR,christmas island,,
+Colombia,Bogotá,Americas,South America,1141748.0,50882884,CO,COL,colombia,SP.POP.TOTL,52886363.0
+Poland,Warsaw,Europe,Europe,312679.0,37950802,PL,POL,poland,SP.POP.TOTL,36554707.0
+Brunei,Bandar Seri Begawan,Asia,Asia,5765.0,437483,BN,BRN,brunei,SP.POP.TOTL,462721.0
+Mauritania,Nouakchott,Africa,Africa,1030700.0,4649660,MR,MRT,mauritania,SP.POP.TOTL,5169395.0
+Palestine,Jerusalem,Asia,Asia,6220.0,4803269,PS,PSE,palestine,SP.POP.TOTL,5289152.0
+Russia,Moscow,Europe,Europe,17098242.0,144104080,RU,RUS,russian federation,SP.POP.TOTL,143533851.0
+Azerbaijan,Baku,Asia,Asia,86600.0,10110116,AZ,AZE,azerbaijan,SP.POP.TOTL,10202850.0
+South Africa,Pretoria,Africa,Africa,1221037.0,59308690,ZA,ZAF,south africa,SP.POP.TOTL,64007187.0
+Turkey,Ankara,Asia,Europe,783562.0,84339067,TR,TUR,turkey,SP.POP.TOTL,85518661.0
